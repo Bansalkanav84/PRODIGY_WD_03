@@ -1,1 +1,1 @@
-# PRODIGY_WD_03
+This repo contains code for a personal portfolio website.
